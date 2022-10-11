@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09BE4CF4-5912-4402-87B6-EDA8C288E3A4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A27EFC36-D487-4F42-BC81-B1A57268F0C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "instagram_codepath/PostCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PostCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A27EFC36-D487-4F42-BC81-B1A57268F0C8 - 9e2ad5b15b322f41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instagram_codepath.PostCell.photoView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "instagram_codepath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastian/Desktop/instagram_codepath/instagram_codepath/instagram_codepath/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "A27EFC36-D487-4F42-BC81-B1A57268F0C8 - 4e3cc33d5f75dbbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instagram_codepath.PostCell.photoView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "instagram_codepath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastian/Desktop/instagram_codepath/instagram_codepath/instagram_codepath/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "A27EFC36-D487-4F42-BC81-B1A57268F0C8 - 5a71a0cafb8fc442"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instagram_codepath.PostCell.photoView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "instagram_codepath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastian/Desktop/instagram_codepath/instagram_codepath/instagram_codepath/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A27EFC36-D487-4F42-BC81-B1A57268F0C8 - fab3a1cbdc9d8fa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instagram_codepath.PostCell.photoView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "instagram_codepath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastian/Desktop/instagram_codepath/instagram_codepath/instagram_codepath/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "A27EFC36-D487-4F42-BC81-B1A57268F0C8 - 69f09817f3243d84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instagram_codepath.PostCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; instagram_codepath.PostCell"
+                  moduleName = "instagram_codepath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastian/Desktop/instagram_codepath/instagram_codepath/instagram_codepath/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "A27EFC36-D487-4F42-BC81-B1A57268F0C8 - cc54276704d32bc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instagram_codepath.PostCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;instagram_codepath.PostCell&gt;"
+                  moduleName = "instagram_codepath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastian/Desktop/instagram_codepath/instagram_codepath/instagram_codepath/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
