@@ -8,5 +8,5 @@ target 'instagram_codepath' do
   # Pods for instagram_codepath
   pod 'Parse'
   pod 'AlamofireImage'
-
+  pod 'MessageInputBar'
 end
